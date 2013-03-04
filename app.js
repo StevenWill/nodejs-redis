@@ -1,6 +1,3 @@
-// Redis client documentation:
-// https://github.com/mranney/node_redis
-// Redis commands: http://redis.io/commands
 
 var redis = require("redis"),
     client = redis.createClient();
